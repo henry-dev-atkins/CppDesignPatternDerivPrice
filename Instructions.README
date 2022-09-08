@@ -1,0 +1,9 @@
+#Build Instructions
+
+1 - After Making Code in <NAME>.cpp, ctrl+S to save it
+
+2 - Highlight Terminal -> Run Build Task (Select the g++ version that drops down)
+
+3 - Close Build Terminal
+
+4 - Open Terminal and run this: .\<NAME> eg: .\HelloWorld
