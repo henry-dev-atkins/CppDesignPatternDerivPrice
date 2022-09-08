@@ -1,4 +1,4 @@
-# C++ Design patters and derivatives Pricing 
+# C++ Design Patterns and Derivatives Pricing 
 
 by Mark S. Joshi
 
