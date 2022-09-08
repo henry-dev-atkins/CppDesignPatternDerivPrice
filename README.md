@@ -2,21 +2,21 @@
 
 #Chapter 1:
 
-[]- Modify to Price Puts
+- [ ] Modify to Price Puts
 
-[]- Modify to Price Double Digitals
+- [ ] Modify to Price Double Digitals
 
-[]- Modify to accept a string option Payoff
+- [ ] Modify to accept a string option Payoff
 
-[]- Class Identifiers
+- [x] Class Identifiers
 
 
 #Chapter 2:
 
-[]- Modify Payoff class to handle Digital Options
+- [ ] Modify Payoff class to handle Digital Options
 
-[]- Modify Payoff class to handle Double Digital Options
+- [ ] Modify Payoff class to handle Double Digital Options
 
-[]- Test whether using const speeds up code on your compiler
+- [ ] Test whether using const speeds up code on your compiler
 
 
